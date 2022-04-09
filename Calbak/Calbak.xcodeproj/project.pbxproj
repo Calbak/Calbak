@@ -7,27 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14F5EE0927FEC25600C1E643 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE0827FEC25600C1E643 /* AppDelegate.swift */; };
-		14F5EE0B27FEC25600C1E643 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE0A27FEC25600C1E643 /* SceneDelegate.swift */; };
-		14F5EE0D27FEC25600C1E643 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE0C27FEC25600C1E643 /* ViewController.swift */; };
-		14F5EE1027FEC25600C1E643 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE0E27FEC25600C1E643 /* Main.storyboard */; };
-		14F5EE1227FEC25700C1E643 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE1127FEC25700C1E643 /* Assets.xcassets */; };
-		14F5EE1527FEC25700C1E643 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE1327FEC25700C1E643 /* LaunchScreen.storyboard */; };
+		14F5EE2927FEC96C00C1E643 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE2827FEC96C00C1E643 /* AppDelegate.swift */; };
+		14F5EE2B27FEC96C00C1E643 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE2A27FEC96C00C1E643 /* SceneDelegate.swift */; };
+		14F5EE2D27FEC96C00C1E643 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE2C27FEC96C00C1E643 /* ViewController.swift */; };
+		14F5EE3027FEC96C00C1E643 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE2E27FEC96C00C1E643 /* Main.storyboard */; };
+		14F5EE3227FEC96D00C1E643 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE3127FEC96D00C1E643 /* Assets.xcassets */; };
+		14F5EE3527FEC96D00C1E643 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE3327FEC96D00C1E643 /* LaunchScreen.storyboard */; };
+		14F5EE432800742100C1E643 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE422800742100C1E643 /* EditProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		14F5EE0527FEC25600C1E643 /* Calbak.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calbak.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		14F5EE0827FEC25600C1E643 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		14F5EE0A27FEC25600C1E643 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		14F5EE0C27FEC25600C1E643 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		14F5EE0F27FEC25600C1E643 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		14F5EE1127FEC25700C1E643 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		14F5EE1427FEC25700C1E643 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		14F5EE1627FEC25700C1E643 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14F5EE2527FEC96C00C1E643 /* Calbak.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calbak.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		14F5EE2827FEC96C00C1E643 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		14F5EE2A27FEC96C00C1E643 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		14F5EE2C27FEC96C00C1E643 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		14F5EE2F27FEC96C00C1E643 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		14F5EE3127FEC96D00C1E643 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		14F5EE3427FEC96D00C1E643 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		14F5EE3627FEC96D00C1E643 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14F5EE422800742100C1E643 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		14F5EE0227FEC25600C1E643 /* Frameworks */ = {
+		14F5EE2227FEC96C00C1E643 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +39,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		14F5EDFC27FEC25600C1E643 = {
+		14F5EE1C27FEC96C00C1E643 = {
 			isa = PBXGroup;
 			children = (
-				14F5EE0727FEC25600C1E643 /* Calbak */,
-				14F5EE0627FEC25600C1E643 /* Products */,
+				14F5EE2727FEC96C00C1E643 /* Calbak */,
+				14F5EE2627FEC96C00C1E643 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		14F5EE0627FEC25600C1E643 /* Products */ = {
+		14F5EE2627FEC96C00C1E643 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				14F5EE0527FEC25600C1E643 /* Calbak.app */,
+				14F5EE2527FEC96C00C1E643 /* Calbak.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		14F5EE0727FEC25600C1E643 /* Calbak */ = {
+		14F5EE2727FEC96C00C1E643 /* Calbak */ = {
 			isa = PBXGroup;
 			children = (
-				14F5EE0827FEC25600C1E643 /* AppDelegate.swift */,
-				14F5EE0A27FEC25600C1E643 /* SceneDelegate.swift */,
-				14F5EE0C27FEC25600C1E643 /* ViewController.swift */,
-				14F5EE0E27FEC25600C1E643 /* Main.storyboard */,
-				14F5EE1127FEC25700C1E643 /* Assets.xcassets */,
-				14F5EE1327FEC25700C1E643 /* LaunchScreen.storyboard */,
-				14F5EE1627FEC25700C1E643 /* Info.plist */,
+				14F5EE2827FEC96C00C1E643 /* AppDelegate.swift */,
+				14F5EE2A27FEC96C00C1E643 /* SceneDelegate.swift */,
+				14F5EE2C27FEC96C00C1E643 /* ViewController.swift */,
+				14F5EE2E27FEC96C00C1E643 /* Main.storyboard */,
+				14F5EE422800742100C1E643 /* EditProfileViewController.swift */,
+				14F5EE3127FEC96D00C1E643 /* Assets.xcassets */,
+				14F5EE3327FEC96D00C1E643 /* LaunchScreen.storyboard */,
+				14F5EE3627FEC96D00C1E643 /* Info.plist */,
 			);
 			path = Calbak;
 			sourceTree = "<group>";
@@ -70,13 +73,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		14F5EE0427FEC25600C1E643 /* Calbak */ = {
+		14F5EE2427FEC96C00C1E643 /* Calbak */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14F5EE1927FEC25700C1E643 /* Build configuration list for PBXNativeTarget "Calbak" */;
+			buildConfigurationList = 14F5EE3927FEC96D00C1E643 /* Build configuration list for PBXNativeTarget "Calbak" */;
 			buildPhases = (
-				14F5EE0127FEC25600C1E643 /* Sources */,
-				14F5EE0227FEC25600C1E643 /* Frameworks */,
-				14F5EE0327FEC25600C1E643 /* Resources */,
+				14F5EE2127FEC96C00C1E643 /* Sources */,
+				14F5EE2227FEC96C00C1E643 /* Frameworks */,
+				14F5EE2327FEC96C00C1E643 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +87,25 @@
 			);
 			name = Calbak;
 			productName = Calbak;
-			productReference = 14F5EE0527FEC25600C1E643 /* Calbak.app */;
+			productReference = 14F5EE2527FEC96C00C1E643 /* Calbak.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		14F5EDFD27FEC25600C1E643 /* Project object */ = {
+		14F5EE1D27FEC96C00C1E643 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
 				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					14F5EE0427FEC25600C1E643 = {
+					14F5EE2427FEC96C00C1E643 = {
 						CreatedOnToolsVersion = 13.3;
 					};
 				};
 			};
-			buildConfigurationList = 14F5EE0027FEC25600C1E643 /* Build configuration list for PBXProject "Calbak" */;
+			buildConfigurationList = 14F5EE2027FEC96C00C1E643 /* Build configuration list for PBXProject "Calbak" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 14F5EDFC27FEC25600C1E643;
-			productRefGroup = 14F5EE0627FEC25600C1E643 /* Products */;
+			mainGroup = 14F5EE1C27FEC96C00C1E643;
+			productRefGroup = 14F5EE2627FEC96C00C1E643 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				14F5EE0427FEC25600C1E643 /* Calbak */,
+				14F5EE2427FEC96C00C1E643 /* Calbak */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		14F5EE0327FEC25600C1E643 /* Resources */ = {
+		14F5EE2327FEC96C00C1E643 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14F5EE1527FEC25700C1E643 /* LaunchScreen.storyboard in Resources */,
-				14F5EE1227FEC25700C1E643 /* Assets.xcassets in Resources */,
-				14F5EE1027FEC25600C1E643 /* Main.storyboard in Resources */,
+				14F5EE3527FEC96D00C1E643 /* LaunchScreen.storyboard in Resources */,
+				14F5EE3227FEC96D00C1E643 /* Assets.xcassets in Resources */,
+				14F5EE3027FEC96C00C1E643 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		14F5EE0127FEC25600C1E643 /* Sources */ = {
+		14F5EE2127FEC96C00C1E643 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14F5EE0D27FEC25600C1E643 /* ViewController.swift in Sources */,
-				14F5EE0927FEC25600C1E643 /* AppDelegate.swift in Sources */,
-				14F5EE0B27FEC25600C1E643 /* SceneDelegate.swift in Sources */,
+				14F5EE432800742100C1E643 /* EditProfileViewController.swift in Sources */,
+				14F5EE2D27FEC96C00C1E643 /* ViewController.swift in Sources */,
+				14F5EE2927FEC96C00C1E643 /* AppDelegate.swift in Sources */,
+				14F5EE2B27FEC96C00C1E643 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		14F5EE0E27FEC25600C1E643 /* Main.storyboard */ = {
+		14F5EE2E27FEC96C00C1E643 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				14F5EE0F27FEC25600C1E643 /* Base */,
+				14F5EE2F27FEC96C00C1E643 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		14F5EE1327FEC25700C1E643 /* LaunchScreen.storyboard */ = {
+		14F5EE3327FEC96D00C1E643 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				14F5EE1427FEC25700C1E643 /* Base */,
+				14F5EE3427FEC96D00C1E643 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		14F5EE1727FEC25700C1E643 /* Debug */ = {
+		14F5EE3727FEC96D00C1E643 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		14F5EE1827FEC25700C1E643 /* Release */ = {
+		14F5EE3827FEC96D00C1E643 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,7 +284,7 @@
 			};
 			name = Release;
 		};
-		14F5EE1A27FEC25700C1E643 /* Debug */ = {
+		14F5EE3A27FEC96D00C1E643 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,7 +311,7 @@
 			};
 			name = Debug;
 		};
-		14F5EE1B27FEC25700C1E643 /* Release */ = {
+		14F5EE3B27FEC96D00C1E643 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -337,25 +341,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		14F5EE0027FEC25600C1E643 /* Build configuration list for PBXProject "Calbak" */ = {
+		14F5EE2027FEC96C00C1E643 /* Build configuration list for PBXProject "Calbak" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14F5EE1727FEC25700C1E643 /* Debug */,
-				14F5EE1827FEC25700C1E643 /* Release */,
+				14F5EE3727FEC96D00C1E643 /* Debug */,
+				14F5EE3827FEC96D00C1E643 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14F5EE1927FEC25700C1E643 /* Build configuration list for PBXNativeTarget "Calbak" */ = {
+		14F5EE3927FEC96D00C1E643 /* Build configuration list for PBXNativeTarget "Calbak" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14F5EE1A27FEC25700C1E643 /* Debug */,
-				14F5EE1B27FEC25700C1E643 /* Release */,
+				14F5EE3A27FEC96D00C1E643 /* Debug */,
+				14F5EE3B27FEC96D00C1E643 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 14F5EDFD27FEC25600C1E643 /* Project object */;
+	rootObject = 14F5EE1D27FEC96C00C1E643 /* Project object */;
 }
