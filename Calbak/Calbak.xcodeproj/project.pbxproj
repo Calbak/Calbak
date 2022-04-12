@@ -14,6 +14,7 @@
 		14F5EE3227FEC96D00C1E643 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE3127FEC96D00C1E643 /* Assets.xcassets */; };
 		14F5EE3527FEC96D00C1E643 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14F5EE3327FEC96D00C1E643 /* LaunchScreen.storyboard */; };
 		14F5EE432800742100C1E643 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE422800742100C1E643 /* EditProfileViewController.swift */; };
+		14F5EE452801961D00C1E643 /* AddPictureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F5EE442801961D00C1E643 /* AddPictureViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		14F5EE3427FEC96D00C1E643 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14F5EE3627FEC96D00C1E643 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14F5EE422800742100C1E643 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
+		14F5EE442801961D00C1E643 /* AddPictureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPictureViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				14F5EE3127FEC96D00C1E643 /* Assets.xcassets */,
 				14F5EE3327FEC96D00C1E643 /* LaunchScreen.storyboard */,
 				14F5EE3627FEC96D00C1E643 /* Info.plist */,
+				14F5EE442801961D00C1E643 /* AddPictureViewController.swift */,
 			);
 			path = Calbak;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14F5EE452801961D00C1E643 /* AddPictureViewController.swift in Sources */,
 				14F5EE432800742100C1E643 /* EditProfileViewController.swift in Sources */,
 				14F5EE2D27FEC96C00C1E643 /* ViewController.swift in Sources */,
 				14F5EE2927FEC96C00C1E643 /* AppDelegate.swift in Sources */,

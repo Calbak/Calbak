@@ -11,7 +11,6 @@ class ViewController: UIViewController, EditProfileDelegate{
     @IBOutlet weak var userName: UILabel!
     @IBOutlet weak var introText: UILabel!
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
     }
@@ -35,4 +34,5 @@ class ViewController: UIViewController, EditProfileDelegate{
     @IBAction func editButton(_ sender: UIButton) {
     }
 }
+
 

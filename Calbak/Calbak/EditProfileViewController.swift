@@ -36,4 +36,6 @@ class EditProfileViewController: UIViewController {
         self.delegate?.changeProfile(text: self.NameTextField.text, introText: self.introTextField.text)
         self.navigationController?.popViewController(animated: true)
     }
+    @IBAction func BtnEditPicture(_ sender: UIBarButtonItem) {
+    }
 }
